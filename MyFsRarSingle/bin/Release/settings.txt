@@ -1,0 +1,1 @@
+{"server_uri":"http://192.168.1.254/HttpService1cTest/hs/tsd/" , "IMEI":"359628043907471"}

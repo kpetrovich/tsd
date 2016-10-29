@@ -1,0 +1,12 @@
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Release\MyFsRarSingle.exe
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Release\MyFsRarSingle.pdb
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Release\DSIC.Barcode.dll
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.MainForm.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.exe
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.pdb
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.MainMenu.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.Forms.InputBox.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Release\MyFsRarSingle.Forms.SelectBaseForm.resources

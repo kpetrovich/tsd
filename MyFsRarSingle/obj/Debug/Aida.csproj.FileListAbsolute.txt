@@ -1,0 +1,13 @@
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\Aida.exe
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\Aida.pdb
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\DSIC.Barcode.dll
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.MainForm.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.Forms.InputBox.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.Forms.SelectBaseForm.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.MainMenuForm.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.exe
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\Aida.pdb

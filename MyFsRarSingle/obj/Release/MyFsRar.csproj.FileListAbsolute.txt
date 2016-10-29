@@ -1,0 +1,9 @@
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Release\DSIC.Barcode.dll
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Release\ResolveAssemblyReference.cache
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Release\SmartDeviceProject2.Form1.resources
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Release\MyFsRar.csproj.GenerateResource.Cache
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Release\MyFsRar.exe
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Release\MyFsRar.pdb
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Release\MyFsRar.Properties.Resources.resources
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Release\MyFsRar.exe
+d:\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Release\MyFsRar.pdb

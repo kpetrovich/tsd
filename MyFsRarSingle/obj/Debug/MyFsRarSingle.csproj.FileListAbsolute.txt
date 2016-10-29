@@ -1,0 +1,11 @@
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\MyFsRarSingle.MainForm.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\MyFsRarSingle.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\MyFsRarSingle.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\MyFsRarSingle.exe
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\MyFsRarSingle.pdb
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\DSIC.Barcode.dll
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\MyFsRarSingle.exe
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\MyFsRarSingle.pdb
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\obj\Debug\MyFsRarSingle.FormCalendar.resources
+D:\Visual Studio 2008\Projects\MyFsRarSingle\MyFsRarSingle\bin\Debug\0ScanLib.dll
